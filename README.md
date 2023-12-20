@@ -1,2 +1,2 @@
-# primer_proyecto
-Repositorio vacío para crear el primer proyecto
+# Trabajo Practico Integrador 
+Repositorio utilizado para subir el codigo correspondiente al trabajo practico integrador 
